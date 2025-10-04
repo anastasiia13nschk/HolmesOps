@@ -70167,6 +70167,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1092741841}
     m_Modifications:
+    - target: {fileID: 970079311216123901, guid: 93842a720feea94448abeada644fc420, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1661865385208780663, guid: 93842a720feea94448abeada644fc420, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -70245,6 +70249,22 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1661865385208780663, guid: 93842a720feea94448abeada644fc420, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5263869922644203881, guid: 93842a720feea94448abeada644fc420, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -194
+      objectReference: {fileID: 0}
+    - target: {fileID: 5266367702990030645, guid: 93842a720feea94448abeada644fc420, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 187
+      objectReference: {fileID: 0}
+    - target: {fileID: 5949499308777890804, guid: 93842a720feea94448abeada644fc420, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6788371192477896827, guid: 93842a720feea94448abeada644fc420, type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8232050747404572898, guid: 93842a720feea94448abeada644fc420, type: 3}
@@ -70575,9 +70595,13 @@ PrefabInstance:
       propertyPath: m_text
       value: GLEN CITY
       objectReference: {fileID: 0}
+    - target: {fileID: 564394016114978784, guid: 78f31ab7314083e4788283966fae6906, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -1298
+      objectReference: {fileID: 0}
     - target: {fileID: 888079518830979475, guid: 78f31ab7314083e4788283966fae6906, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -163
+      value: 310
       objectReference: {fileID: 0}
     - target: {fileID: 1424191847364468902, guid: 78f31ab7314083e4788283966fae6906, type: 3}
       propertyPath: m_Pivot.x
@@ -70761,11 +70785,11 @@ PrefabInstance:
       objectReference: {fileID: 1749345290}
     - target: {fileID: 4900379810110282165, guid: 78f31ab7314083e4788283966fae6906, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 658
+      value: 1131
       objectReference: {fileID: 0}
     - target: {fileID: 6101637482681718274, guid: 78f31ab7314083e4788283966fae6906, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -967
+      value: -494
       objectReference: {fileID: 0}
     - target: {fileID: 6101637482681718274, guid: 78f31ab7314083e4788283966fae6906, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -70775,9 +70799,17 @@ PrefabInstance:
       propertyPath: m_text
       value: FRANGA DUNGEON
       objectReference: {fileID: 0}
+    - target: {fileID: 7442168851085848630, guid: 78f31ab7314083e4788283966fae6906, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1565.856
+      objectReference: {fileID: 0}
+    - target: {fileID: 7964366677453507720, guid: 78f31ab7314083e4788283966fae6906, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8373678455533086829, guid: 78f31ab7314083e4788283966fae6906, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5507973
       objectReference: {fileID: 0}
     - target: {fileID: 8373678455533086829, guid: 78f31ab7314083e4788283966fae6906, type: 3}
       propertyPath: m_AnchorMax.y
