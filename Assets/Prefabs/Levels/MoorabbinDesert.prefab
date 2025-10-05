@@ -2749,6 +2749,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5665693706302409975}
+  - component: {fileID: 6229529962053352977}
   m_Layer: 0
   m_Name: MoorabbinDesert
   m_TagString: Untagged
@@ -2774,6 +2775,19 @@ Transform:
   - {fileID: 1892518088294544501}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6229529962053352977
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5976477308744313804}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c81bae0f85ef14a448aeabb74c21bcef, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  profile: {fileID: 11400000, guid: a901b84ab6c0dd940bce0936ebe21035, type: 2}
 --- !u!1 &6463642507903063462
 GameObject:
   m_ObjectHideFlags: 0
